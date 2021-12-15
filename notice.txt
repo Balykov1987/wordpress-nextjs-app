@@ -1,0 +1,4 @@
+1 - Админка на поддомене
+2 - Visual composer загружает свои стили и классы типа wpb_raw_code wpb_content_element wpb_raw_html
+3 - При передаче данных инфа в Advanced Custom Fields не попадает в таблицу Graph QL
+4 - WP Graph QL
